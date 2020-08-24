@@ -10,7 +10,7 @@ public class myCode1 {
 		System.out.println("Thank you team.");
 		System.out.println("Last line");
 		System.out.println("added by neelam");
-		System.out.println(" when master master reject error comes");
+		System.out.println(" when master master reject error comess");
 	}
 
 }
